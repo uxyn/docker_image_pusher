@@ -1,2 +1,2 @@
 alpine
-flannel:v0.25.3
+flannel/flannel:v0.25.3
