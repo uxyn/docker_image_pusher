@@ -2,3 +2,10 @@ alpine
 flannel/flannel:v0.25.3
 flannel/flannel-cni-plugin:v1.4.1-flannel1
 apache/answer:1.3.5
+mysql/mysql-server:8.0.32
+mysql:8.4.2
+mysql:5.7.43
+redis:7.4.1
+redis:6.2.16
+nacos/nacos-server:v2.4.3
+nacos/nacos-server:v2.4.1
