@@ -9,3 +9,9 @@ redis:7.4.1
 redis:6.2.16
 nacos/nacos-server:v2.4.3
 nacos/nacos-server:v2.4.1
+apache/rocketmq:5.3.1
+apache/rocketmq:5.1.4
+apache/rocketmq:5.1.4
+xuxueli/xxl-job-admin:2.4.1
+xuxueli/xxl-job-admin:2.3.1
+xuxueli/xxl-job-admin:2.1.2
