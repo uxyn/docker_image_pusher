@@ -16,3 +16,11 @@ xuxueli/xxl-job-admin:2.4.1
 xuxueli/xxl-job-admin:2.3.1
 xuxueli/xxl-job-admin:2.1.2
 navicat/navicatonpremserver:2.0.3
+zabbix/zabbix-server-mysql:alpine-7.2-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.2-latest
+zabbix/zabbix-java-gateway:alpine-7.2-latest
+zabbix/zabbix-snmptraps:alpine-7.2-latest
+zabbix/zabbix-web-service:alpine-7.2-latest
+zabbix/zabbix-agent:alpine-7.2-latest
+zabbix/zabbix-agent2:alpine-7.2-latest
+mysql:8.0.36
