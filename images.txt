@@ -1,11 +1,2 @@
 alpine
-zabbix/zabbix-server-mysql:alpine-6.0.12
-zabbix/zabbix-web-nginx-mysql:alpine-6.0.12
-zabbix/zabbix-java-gateway:alpine-6.0.12
-zabbix/zabbix-snmptraps:alpine-6.0.12
-zabbix/zabbix-web-service:alpine-6.0.12
-zabbix/zabbix-agent2
-zabbix/zabbix-agent:alpine-6.0.12
-mysql:8.0
-gpustack/gpustack:main-cuda12.8
-ghcr.io/open-webui/open-webui:main
+xinsodev/drawdb:latest
