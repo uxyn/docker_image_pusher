@@ -1,4 +1,2 @@
 alpine
-xinsodev/drawdb:latest
-nginx:stable-alpine3.17
-node:20-alpine
+filebrowser/filebrowser:v2.32.0
