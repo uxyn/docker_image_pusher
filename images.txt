@@ -1,4 +1,2 @@
 alpine
-filebrowser/filebrowser:v2.32.0
-mcr.microsoft.com/mssql/server
-mcr.microsoft.com/mssql/server:2022-latest
+postgres:16.9-bullseye
