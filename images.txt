@@ -1,3 +1,4 @@
 alpine
 postgres:16.9-bullseye
 minio/minio:RELEASE.2024-05-01T01-11-10Z.fips
+ghcr.io/open-webui/pipelines:main
