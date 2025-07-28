@@ -4,3 +4,4 @@ minio/minio:RELEASE.2024-05-01T01-11-10Z.fips
 ghcr.io/open-webui/pipelines:main
 ghcr.io/open-webui/open-webui:main
 infiniflow/ragflow:v0.19.1-slim
+ghcr.io/open-webui/open-webui:v0.6.18
