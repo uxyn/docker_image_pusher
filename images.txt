@@ -1,7 +1,3 @@
 alpine
-postgres:16.9-bullseye
-minio/minio:RELEASE.2024-05-01T01-11-10Z.fips
-ghcr.io/open-webui/pipelines:main
-ghcr.io/open-webui/open-webui:main
-infiniflow/ragflow:v0.19.1-slim
-ghcr.io/open-webui/open-webui:v0.6.18
+infiniflow/ragflow:v0.19.0
+ghcr.io/open-webui/open-webui:v0.6.15
