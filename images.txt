@@ -2,3 +2,4 @@ alpine
 elasticsearch:9.1.0
 hub.icert.top/opensearchproject/opensearch:2.19.1
 infiniflow/infinity:v0.6.0-dev3
+ghcr.io/open-webui/open-webui:v0.6.25
