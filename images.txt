@@ -1,4 +1,4 @@
-alpine
-elasticsearch:9.1.0
-infiniflow/ragflow:v0.23.1
+# alpine
+# elasticsearch:9.1.0
+# infiniflow/ragflow:v0.23.1
 infiniflow/ragflow:v0.21.1
