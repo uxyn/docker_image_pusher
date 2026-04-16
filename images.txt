@@ -1,1 +1,2 @@
 alpine/minio:RELEASE.2025-10-15T17-29-55Z
+redis:7.4.7-bookworm 
