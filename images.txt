@@ -1,2 +1,3 @@
 ghcr.io/docling-project/docling-serve-cu130:v1.19.0
 redis:7.4.7-bookworm 
+infiniflow/ragflow:v0.25.6
