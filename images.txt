@@ -1,1 +1,1 @@
-ghcr.io/docling-project/docling-serve-cu130:v1.28.0
+ghcr.io/docling-project/docling-serve-cu130:v1.30.0
